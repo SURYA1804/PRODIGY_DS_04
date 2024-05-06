@@ -22,7 +22,7 @@ Steps to Complete the Task
                         1.Choose a sentiment analysis approach. You can use lexicon-based methods (which rely on sentiment lexicons) or machine learning models trained on                                 labeled sentiment data.
                         2.Apply the sentiment analysis method to classify the text data into positive, negative, or neutral sentiment.
     5.Visualization:
-                        1.Use visualizations like bar charts or histograms to visualize the distribution of sentiment across the social media data.
+                        Use visualizations like bar charts or histograms to visualize the distribution of sentiment across the social media data.
 
 Expected Output
 
